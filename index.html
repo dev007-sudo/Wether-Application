@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheather Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card-container">
+        <div class="header">
+           <div class="search-box">
+            <input type="text" placeholder="Enter your location here" class="input-box">
+            <button id="searchbtn"><img src="/IMAGE/search-01-Stroke-Rounded.png"></button>
+           </div>
+        </div>
+
+        <div class="location-not-found">
+            <h1>Sorry, Location not fond !</h1>
+            <img src="/IMAGE/404.png" alt="404.png">
+        </div>
+
+        <div class="wheather-body">
+            <img class="wheather-img" src="/IMAGE/cloud.png" alt=" cloud image">
+            <div class="wheather-box">
+                <p class="temprature">0 <sup> °C</sup></p>
+                <p class="description"></p>
+            </div>
+
+            <div class="wheather-details">
+                <div class="humidity">
+                    <img src="/IMAGE/humidity.png" alt="">
+                <div class="text">
+                    <span id="humidity">45%</span>
+                    <p>humidity</p>
+                </div>
+                </div>
+
+                <div class="wind">
+                    <img src="/IMAGE/mist.png" alt="mist">
+                    <div class="text">
+                        <span id="wind-speed">12km/H</span>
+                        <p>wind speed</p>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
