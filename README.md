@@ -17,7 +17,7 @@ A responsive Weather App that fetches real-time weather data using the OpenWeath
 ### Weather Results with Icons
 ![Weather Result](https://github.com/dev007-sudo/Wether-Application/blob/main/wethesc2.PNG)
 
-### Weather Results with Icons
+### error Results with wrong place name
 ![Weather Result](https://github.com/dev007-sudo/Wether-Application/blob/main/wethersc3.PNG)
 
 ---
