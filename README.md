@@ -5,7 +5,7 @@
 
 A responsive Weather App that fetches real-time weather data using the OpenWeather API. It allows users to search for any city and view its current weather conditions, including temperature, humidity, and weather icons. The app also handles invalid location inputs gracefully with clear error messages.
 
-🔗 [Live Demo](https://your-netlify-url.netlify.app)
+🔗 Live Demo: [wetherprojectjavascript.netlify.app](https://wetherprojectjavascript.netlify.app)
 
 ---
 
